@@ -1,0 +1,18 @@
+{
+  "name": "Shrishti · Paris",
+  "short_name": "Paris",
+  "description": "Two weeks in Paris. Works with no signal.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1418",
+  "theme_color": "#0E1418",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230E1418'/%3E%3Ccircle cx='256' cy='256' r='150' fill='none' stroke='%23F58BAD' stroke-width='18'/%3E%3Ccircle cx='256' cy='256' r='74' fill='%238CB369'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
